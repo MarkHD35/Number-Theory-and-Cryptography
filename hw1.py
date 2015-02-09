@@ -2,7 +2,7 @@
 #This file is where I did my computer-assisted scratch work for HW 1
 #For instructor verification if desired
 
-from code_Math4351hw1 import *
+from code_Math4351 import *
 
 #problem 1.2a
 code1 = "LWKLQNWKDWLVKDOOQHYHUVHHDELOOERDUGORYHOBDVDWUHH"
