@@ -72,7 +72,7 @@ print "\pi_1(10^6) = ", pi4(10**6,1)
 print "\pi_3(10^6) = ", pi4(10**6,3)
 print isPrime(39175)
 '''
-
+'''
 #list of numbers for Exercise 3.27
 numbers327 = [84,141,171,208,224,318,325,366,378,390,420,440,504,530,707,726,758,765,792,817]
 smoothness = 10
@@ -87,4 +87,4 @@ for number in numbers327:
 		print "10-power-smooth."
 	else:
 		print "not 10-power-smooth."
-	
+'''	
